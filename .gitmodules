@@ -5,6 +5,9 @@
 [submodule "AuxSurvey"]
 	path = AuxSurvey
 	url = https://github.com/zjg540066169/auxsurvey
+[submodule "BMIselect"]
+	path = BMIselect
+	url = https://github.com/cran/BMIselect
 [submodule "SBMTrees"]
 	path = SBMTrees
 	url = https://github.com/zjg540066169/sbmtrees
